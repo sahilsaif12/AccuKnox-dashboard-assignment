@@ -1,0 +1,70 @@
+{
+  "csmp": {
+    "name":"CSMP Executive Dashboard",
+    "widgets":[
+        {
+          "id":1,
+          "name":"cloud accounts",
+          "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos.",
+          "show":true
+        },
+        {
+          "id":2,
+          "name":"cloud account risk assesment",
+          "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos.",
+          "show":true
+        },
+        {
+          "id":3,
+          "name":"All accounts details",
+          "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos.",
+          "show":true
+        }
+    ]
+  },
+  
+  "cwpp": {
+    "name":"CWPP dashboard",
+    "widgets":[
+        {
+          "id":1,
+          "name":"top 5 namespace specific alerts",
+          "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos.",
+          "show":true
+        },
+        {
+          "id":2,
+          "name":"workload alerts",
+          "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos.",
+          "show":true
+        }
+    ]
+  },
+  
+  "image": {
+    "name":"Registry scan",
+    "widgets":[
+        {
+          "id":1,
+          "name":"image risk assesment",
+          "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos.",
+          "show":true
+        },
+        {
+          "id":2,
+          "name":"image security issues",
+          "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos.",
+          "show":true
+        }
+    ]
+  },
+  
+  "ticket": {
+    "name":"Ticket dashboard",
+    "widgets":[
+        
+    ]
+  }
+
+  
+}
